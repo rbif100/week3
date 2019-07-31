@@ -1,0 +1,51 @@
+FirstName	LastName	Symptoms	Age	Gender	Status
+Ardelle	Vanderburg		26	F	Sequenced
+Raymond	No		6	F	Sequenced
+Meda	Tilton	runny nose	71	F	Sequenced
+Alla	Labrie	"Congestion,headache"	17	F	Not sequenced
+Emilio	Critchlow	runny nose	33	F	Not sequenced
+Isidra	Kerr	runny nose	68	M	Sequenced
+Edra	Notter	runny nose	41	M	Not sequenced
+Samuel	Look	"Cough,runny nose"	66	M	Sequenced
+Juana	Gies	"Cough,runny nose"	47	F	Sequenced
+Wm	Rule	headache	46	M	Sequenced
+Kip	Noonan	"Cough,Congestion"	80	M	Sequenced
+Francie	Landey	"runny nose,Cough"	30	M	Sequenced
+Roseanna	Innis	"headache,Cough"	15	M	Not sequenced
+Eugenia	Forness	runny nose	30	M	Sequenced
+Mabel	Corpus	"Cough,Congestion"	78	M	Sequenced
+Sebastian	Frew	"headache,runny nose"	58	M	Not sequenced
+Shaunte	Bonura	"headache,runny nose"	66	M	Sequenced
+Particia	Mohamed		5	M	Sequenced
+Tia	Lalor	"runny nose,headache,Cough"	19	M	Not sequenced
+Stanton	Blanch	Cough	48	M	Sequenced
+Kristopher	Sambrano	"Cough,runny nose"	72	M	Sequenced
+Latesha	Urenda		78	F	Not sequenced
+Delia	Beer	runny nose	40	M	Not sequenced
+Erich	Oommen	runny nose	35	F	Sequenced
+Doris	Bush	"Cough,runny nose"	20	F	Not sequenced
+Lynne	Gorham	Congestion	24	M	Sequenced
+Jade	Kelleher	Cough	26	F	Not sequenced
+Pearlene	Farrior	"Congestion,Cough"	75	M	Sequenced
+Ricki	Schacher	"runny nose,Cough"	44	M	Sequenced
+Tim	Kesner	"Cough,runny nose"	28	M	Sequenced
+Lorine	Klump	"runny nose,Congestion"	62	M	Not sequenced
+Petronila	Sangster	runny nose	14	M	Sequenced
+Belinda	Knighten	"runny nose,Cough"	25	F	Not sequenced
+Luis	Twine	runny nose	56	M	Sequenced
+Sarina	Breton	"headache,Cough,Fever"	42	F	Sequenced
+Melisa	Acosta		64	M	Not sequenced
+Monique	Sandoz	"Cough,runny nose,headache"	5	M	Not sequenced
+Michiko	Pickron	headache	55	M	Sequenced
+Cleo	Mauricio		57	M	Sequenced
+Kenyetta	Elridge	runny nose	55	M	Sequenced
+Margrett	Barrette	"Cough,runny nose"	19	F	Sequenced
+Lesley	Rivet	"headache,runny nose"	26	M	Sequenced
+Todd	Marchal	runny nose	80	F	Sequenced
+Lean	Gulino	Congestion	74	F	Sequenced
+Von	Bock	headache	32	M	Sequenced
+Earl	Dorrough	"Cough,runny nose"	4	M	Sequenced
+Karolyn	Snuggs	runny nose	39	M	Sequenced
+Christiana	Carstensen		65	M	Sequenced
+Erwin	Hieber		60	M	Sequenced
+Eula	Mccafferty	"runny nose,Cough"	21	F	Sequenced
